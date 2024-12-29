@@ -1,1 +1,1 @@
-A component for providing the sure route test object endpoint for Akamai load balancers
+A component to provide the sureroute-test-object endpoint for Akamai load balancers
