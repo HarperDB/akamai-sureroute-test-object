@@ -1,0 +1,2 @@
+static: # Use static handler to server the sure-route test object html file
+  files: '*.html' # Find the srto html file
