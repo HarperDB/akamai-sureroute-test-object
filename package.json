@@ -1,8 +1,7 @@
 {
   "name": "@harperdb/akamai-sureroute-test-object",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A component for providing the sure route test object endpoint for Akamai load balancers",
   "type": "module",
-  "dependencies": {
-  }
+  "dependencies": {}
 }
