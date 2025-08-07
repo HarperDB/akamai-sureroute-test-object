@@ -1,3 +1,3 @@
 static: # Use static handler to server the sure-route test object html file
-  root: /
-  files: '/akamai/*.html' # Find the srto html file
+  path: '/akamai/'
+  files: 'akamai/*.html'
